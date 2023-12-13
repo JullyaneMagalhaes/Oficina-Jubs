@@ -1,0 +1,30 @@
+table, th{
+    border: 1px solid;
+    width: 50%;
+    color: blueviolet;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 1px 0 0 0 0;
+}
+
+td
+{
+    border: 1px solid;
+    width: 0%;
+    color: blueviolet;  
+    border-collapse: collapse;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    color: brown;
+}
+
+body {
+    background-color: pink;
+}
+
+.produto {
+    font-weight: bold;
+}
